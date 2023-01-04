@@ -1,4 +1,5 @@
 function addNumber () {
+    console.log('added')
     return 1+3;
 }
 
