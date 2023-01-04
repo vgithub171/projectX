@@ -4,16 +4,20 @@ function addNumber () {
 }
 
 function addNumber3 () {
+    console.log('added Number 3')
     return 2+11;
 }
 
 function addNumber2 () {
-return 1+2;
+return 'Resturn by Three'
+}
+function addNumber4() {
+    return 9+10;
 }
 
 
-
-
-function addNumber4() {
-    return 9+10;
+function getPromise(){
+    return new Promise((resolve,reject)=>{
+        return resolve();
+    });
 }
