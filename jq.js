@@ -1,2 +1,3 @@
 //populate welcome text
-$(welcome).text('Hello Word');
+var name = 'hello World'
+$(welcome).text(name);
