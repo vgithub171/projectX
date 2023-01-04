@@ -4,7 +4,7 @@ function addNumber () {
 }
 
 function addNumber3 () {
-    return 2+7;
+    return 2+10;
 }
 
 function addNumber2 () {
