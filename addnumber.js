@@ -1,5 +1,5 @@
 function addNumber () {
-    return 1+1;
+    return 1+3;
 }
 
 function addNumber2 () {
