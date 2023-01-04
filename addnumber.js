@@ -16,7 +16,7 @@ function addNumber4() {
 }
 
 
-function getPromise(){
+function getPromise2(){
     return new Promise((resolve,reject)=>{
         return resolve();
     });
