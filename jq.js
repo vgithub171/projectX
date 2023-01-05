@@ -1,9 +1,9 @@
 function newFunction() {
 }
 
-function newFunction2() {
-    return then ChannelSplitterNode;
+function getName() {
+    return 'vaibhav Shinde'
 }
 //populate welcome text
 var name = 'hello World'
-$(welcome).text(name);
+$(welcome).text(getName());
