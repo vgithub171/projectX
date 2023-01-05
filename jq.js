@@ -1,12 +1,18 @@
 function newFunction() {
 }
 
-function getFib(){
-    let a = 10;
-    let b =20;
-    let c = a+b;
-    return c;
+function getFib2() {
+    return 2
 }
 //populate welcome text
 var name = 'hello World'
 $(welcome).text(getName());
+
+
+
+
+function addnumber () {
+    return 1+2;
+}
+
+addNumber();
