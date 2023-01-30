@@ -3,3 +3,5 @@ let str = "@@ -4,16 +4,20 @@ function addNumber () {\n }\n \n function addNumber
 let strArr = str.split('\n');
 
 console.log(strArr);
+
+console.log();
